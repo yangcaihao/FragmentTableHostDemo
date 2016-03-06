@@ -23,8 +23,6 @@ public class SecondActivity extends AppCompatActivity {
         WebSettings webSettings = webView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         webView.setWebViewClient(new MyWebViewClient());
-//        webView.loadUrl("https://www.tigerwit.com/wap/#/");
-//        webView.loadUrl("http://www.baidu.com");
         webView.loadUrl("http://www.oschina.net/");
     }
 
