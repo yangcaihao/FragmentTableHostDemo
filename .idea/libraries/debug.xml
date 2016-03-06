@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_f1d3edef741f8028502fe6496526dd6aeb0f7836.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_6e9e5d25eb2c6de9601b9240a59a140a9f9a3d3c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_ef0503834c993667edc828693ce8c8ef3663b99b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_070080a002c1c4feb5ec27c551d032035ba16fdc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_e7725bfadc08bd6081d2856dcac8e31b21fc6be5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_d4ca1c4ca8f44a5d1dd66ab2802955c6e67804a1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HelloAndroidStudio/app/build/intermediates/pre-dexed/debug/debug_7ce25f9c4c975b4c6ccd6fe46ad1399dbfff029e.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

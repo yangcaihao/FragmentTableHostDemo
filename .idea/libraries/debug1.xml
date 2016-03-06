@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/HybridTest/app/build/intermediates/pre-dexed/debug/debug_ff7123cc37e82cfc65db442b5be27f2df6df68b2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HybridTest/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_22549752030ca49adc2fd8c6ca4a4caa590698d8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HybridTest/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_a236d7b36a36c7fe694a23743b29787f5bdc99c9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HybridTest/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d5f09166eb1ac63a059d052d615df8b96ea80e1f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/HybridTest/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_070080a002c1c4feb5ec27c551d032035ba16fdc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

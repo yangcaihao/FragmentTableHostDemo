@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="debug2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FragmentTableHostDemo/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_3d4fbed2af312154e088e5024dae8d3f1a8e7d4a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FragmentTableHostDemo/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_070080a002c1c4feb5ec27c551d032035ba16fdc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FragmentTableHostDemo/app/build/intermediates/pre-dexed/debug/debug_05119cc6b9aa0d66f866df01b01d415a619f289e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FragmentTableHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_d7db558843b879b1cb63b76a6353691bf85e7ce8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FragmentTableHostDemo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_3ec7ba76f0c26a089d725ac2914d5dccfe1108ed.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
